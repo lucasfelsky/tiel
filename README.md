@@ -1,2 +1,2 @@
 # tiel
-https://wonderloof.github.io/tiel
+https://lucasfelsky.github.io/tiel/
